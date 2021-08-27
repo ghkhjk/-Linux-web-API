@@ -8,6 +8,3 @@
 
 使用时禁止篡改源码如果发现会暂停对您的支持
 ## 词库
-if (isAwesome){
-  return true
-}
